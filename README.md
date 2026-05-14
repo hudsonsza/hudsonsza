@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá, eu sou Will (Hudson)
 
-<!--
-**hudsonsza/hudsonsza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de software com mais de 15 anos de experiência trabalhando com backend, infraestrutura, SRE, observabilidade e plataformas cloud.
 
-Here are some ideas to get you started:
+Tenho foco em construir sistemas:
+- simples de operar,
+- resilientes,
+- observáveis,
+- e preparados para produção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack principal
+
+- Ruby on Rails
+- Node.js
+- Python
+- Golang
+- AWS
+- Docker
+- Linux
+- PostgreSQL / MySQL / Redis
+- GitHub Actions
+- Prometheus + Grafana
+- Nginx / Traefik
+- Coolify
+- ...
+
+---
+
+## Áreas de atuação
+
+- Desenvolvimento
+- Backend Engineering
+- SRE / DevOps
+- Infraestrutura Cloud
+- CI/CD
+- Monitoramento e Observabilidade
+- Performance e Escalabilidade
+- Automação
+
+---
+
+## Visão de engenharia
+
+Gosto de engenharia pragmática.
+
+Prefiro sistemas simples, bem monitorados e fáceis de manter do que arquiteturas excessivamente complexas.
+
+---
+
+## Contato
+
+- GitHub: https://github.com/hudsonsza
+- LinkedIn: https://www.linkedin.com/in/hudsonsza/
+- Whatsapp: (067) 98141-8526
+
+---
+
+> “Menos complexidade. Mais sistemas funcionando.”
