@@ -8,8 +8,6 @@ Tenho foco em construir sistemas:
 - observáveis,
 - e preparados para produção.
 
----
-
 ## Stack principal
 
 - Ruby on Rails
@@ -26,8 +24,6 @@ Tenho foco em construir sistemas:
 - Coolify
 - ...
 
----
-
 ## Áreas de atuação
 
 - Desenvolvimento
@@ -39,15 +35,12 @@ Tenho foco em construir sistemas:
 - Performance e Escalabilidade
 - Automação
 
----
-
 ## Visão de engenharia
 
 Gosto de engenharia pragmática.
 
 Prefiro sistemas simples, bem monitorados e fáceis de manter do que arquiteturas excessivamente complexas.
 
----
 
 ## Contato
 
