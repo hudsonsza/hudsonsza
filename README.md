@@ -1,4 +1,4 @@
-# Olá, eu sou Will (Hudson)
+# Olá, eu sou Hudson
 
 Engenheiro de software com mais de 15 anos de experiência trabalhando com backend, infraestrutura, SRE, observabilidade e plataformas cloud.
 
